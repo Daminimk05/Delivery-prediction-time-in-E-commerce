@@ -103,7 +103,7 @@ hour_cos = cos(2π × pickup_hour / 24)
 
 ## Project Screenshot
  ### User Interface 
- ![User Interface](images/Delivery_time_prediction_UI.png)
+ ![User Interface](./images/Delivery_time_prediction_UI.png)
 
 ---
 
